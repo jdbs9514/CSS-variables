@@ -1,0 +1,44 @@
+:root {
+  /* variables que pueden ser reusadas luego en el mismo css file,
+    y a su vez modificar el valor con javaScript
+   */
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 10px;
+  --contrast: 0%;
+}
+
+img {
+  /* para reusar estas variables anteponemos la palabra reservada
+    var() y dentro de los parentesis el nombre de la variable
+   */
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+
+.hl {
+  color: var(--base);
+}
+
+/*
+    misc styles, nothing to do with CSS variables
+  */
+
+body {
+  filter: contrast(var(--contrast));
+  text-align: center;
+  background: #193549;
+  color: white;
+  font-family: "helvetica neue", sans-serif;
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.controls {
+  margin-bottom: 50px;
+}
+
+input {
+  width: 100px;
+}

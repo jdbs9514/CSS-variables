@@ -1,15 +1,15 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# CSS variables
 
-> Description the project.
+> I this exercise i'll show you how to make css variables and how to make it dinamic by using JavaScript 
 
+![](/image/css_variables.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5
+- CSS3
+- JavaScript
 
 ## Live Demo (if available)
 
@@ -18,39 +18,29 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- HTML5 / CSS3
+- JavaScript
+- live server
 ### Setup
-
+- clone this repo
 ### Install
-
+````
+$git clone <REPO LINK>
+````
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+-For Learning
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- LinkedIn: [Josué](https://linkedin.com/in/macoin)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -66,7 +56,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- 30 Days with JavaScript
 
 ## 📝 License
 
